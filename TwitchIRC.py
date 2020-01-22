@@ -72,5 +72,6 @@ def run():
                 print("Sent a PONG")
 
 
-connect()
-run()
+if __name__ == '__main__':
+    connect()
+    run()
