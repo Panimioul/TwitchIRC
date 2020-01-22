@@ -1,1 +1,1 @@
-![TwitchIRC logo](/logo.png)
+![TwitchIRC logo](/Logo.png)
