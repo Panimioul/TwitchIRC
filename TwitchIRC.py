@@ -2,8 +2,8 @@ import socket
 
 SERVER = "irc.twitch.tv"
 PORT = 6667
-PASSWORD = "oauth:iyfocmwnear1sox4m65g7d1rbjq61x"
-USERNAME = "twitchplaystrackmania"
+PASSWORD = ""  # This needs to be an OAuth token
+USERNAME = ""
 CHANNEL = USERNAME
 IRC = socket.socket()
 
